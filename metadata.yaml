@@ -1,5 +1,8 @@
 _repo: The-Cameron-pride-b-or-purified-by-suffering_69954
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69954-h/images/cover.jpg
 creator:
   author:
     agent_name: Holmes, Mary Jane
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1239
     wikipedia: https://en.wikipedia.org/wiki/Mary_Jane_Holmes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69954#The-Cameron-pride-b-or-purified-by-suffering
 gutenberg_issued: '2023-02-04'
 identifiers:
   gutenberg: '69954'
